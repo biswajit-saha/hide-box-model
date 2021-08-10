@@ -1,0 +1,12 @@
+{
+    "name": "Hide Box Model",
+    "description": "An extention to hide the box model in chrome DevTools",
+    "version": "0.1.0",
+    "manifest_version": 3,
+    "icons": {
+      "16": "icon_16.png",
+      "48": "icon_48.png",
+      "128": "icon_128.png"
+    },
+    "devtools_page": "devtool.html"
+  }
