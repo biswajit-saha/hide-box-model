@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/biswajit-saha/hide-box-model/blob/master/icon_128.png"></p>
+<p align="center"><img src="https://github.com/biswajit-saha/hide-box-model/blob/main/icon_128.png"></p>
 
 # Hide Box MOdel
 ## What is this?
